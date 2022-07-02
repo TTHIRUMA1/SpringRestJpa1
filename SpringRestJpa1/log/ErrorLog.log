@@ -1,0 +1,42 @@
+01-Jul-2022 12:39:20 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+01-Jul-2022 12:39:20 INFO - Finished Spring Data repository scanning in 43 ms. Found 2 JPA repository interfaces.
+01-Jul-2022 12:39:20 INFO - Tomcat initialized with port(s): 9090 (http)
+01-Jul-2022 12:39:20 INFO - Initializing ProtocolHandler ["http-nio-9090"]
+01-Jul-2022 12:39:20 INFO - Starting service [Tomcat]
+01-Jul-2022 12:39:20 INFO - Starting Servlet engine: [Apache Tomcat/9.0.64]
+01-Jul-2022 12:39:20 INFO - Initializing Spring embedded WebApplicationContext
+01-Jul-2022 12:39:20 INFO - Root WebApplicationContext: initialization completed in 1435 ms
+01-Jul-2022 12:39:20 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-Jul-2022 12:39:21 INFO - HHH000412: Hibernate ORM core version 5.6.9.Final
+01-Jul-2022 12:39:21 INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+01-Jul-2022 12:39:21 INFO - HikariPool-1 - Starting...
+01-Jul-2022 12:39:21 INFO - HikariPool-1 - Start completed.
+01-Jul-2022 12:39:21 INFO - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+01-Jul-2022 12:39:22 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+01-Jul-2022 12:39:22 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+01-Jul-2022 12:39:23 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-Jul-2022 12:39:23 INFO - Starting ProtocolHandler ["http-nio-9090"]
+01-Jul-2022 12:39:23 INFO - Tomcat started on port(s): 9090 (http) with context path ''
+01-Jul-2022 17:52:58 INFO - Application shutdown requested.
+01-Jul-2022 17:52:59 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+01-Jul-2022 17:52:59 INFO - HikariPool-1 - Shutdown initiated...
+01-Jul-2022 17:52:59 INFO - HikariPool-1 - Shutdown completed.
+02-Jul-2022 09:02:04 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+02-Jul-2022 09:02:04 INFO - Finished Spring Data repository scanning in 44 ms. Found 2 JPA repository interfaces.
+02-Jul-2022 09:02:05 INFO - Tomcat initialized with port(s): 9090 (http)
+02-Jul-2022 09:02:05 INFO - Initializing ProtocolHandler ["http-nio-9090"]
+02-Jul-2022 09:02:05 INFO - Starting service [Tomcat]
+02-Jul-2022 09:02:05 INFO - Starting Servlet engine: [Apache Tomcat/9.0.64]
+02-Jul-2022 09:02:05 INFO - Initializing Spring embedded WebApplicationContext
+02-Jul-2022 09:02:05 INFO - Root WebApplicationContext: initialization completed in 1662 ms
+02-Jul-2022 09:02:05 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+02-Jul-2022 09:02:05 INFO - HHH000412: Hibernate ORM core version 5.6.9.Final
+02-Jul-2022 09:02:05 INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+02-Jul-2022 09:02:05 INFO - HikariPool-1 - Starting...
+02-Jul-2022 09:02:06 INFO - HikariPool-1 - Start completed.
+02-Jul-2022 09:02:06 INFO - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+02-Jul-2022 09:02:07 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+02-Jul-2022 09:02:07 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+02-Jul-2022 09:02:07 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+02-Jul-2022 09:02:08 INFO - Starting ProtocolHandler ["http-nio-9090"]
+02-Jul-2022 09:02:08 INFO - Tomcat started on port(s): 9090 (http) with context path ''
